@@ -61,7 +61,7 @@ class CanoeRental:
 class Customer:
 
     def __init__(self):
-        self.bikes = 0
+        self.canoes = 0
         self.rentalBasis = 0
         self.rentalTime = 0
         self.bill = 0
